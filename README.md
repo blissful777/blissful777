@@ -37,8 +37,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats
 <div align="center">
-<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=blissful777&show_icons=true&theme=radical" />
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blissful777&layout=compact" />
+<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=blissful777&show_icons=true&theme=gotham " />
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blissful777&layout=compact&theme=gotham " />
 </div>
 
 ---
